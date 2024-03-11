@@ -1,8 +1,5 @@
 ### Hello World 👋, I'm Libere Ndacayisaba
-<a href="https://www.linkedin.com/in/ndacayisaba/">
-  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
-<br /> 
+
 <hr>
 
 #### About Me 
@@ -10,7 +7,7 @@
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in ML + data science. </br>
 🔭 I'm passionate about impactful frontier technologies that improve human health. </br>
 💬 I’m currently learning about venture and business strategy in biotechnology and biopharma </br>
-📫 Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) or visit my [personal site](https://liberendacayisaba.com/)
+📫 See more on [personal site](https://liberendacayisaba.com/) and connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) 
 
 #### Recent Experiences 💼
 
@@ -37,4 +34,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://www.linkedin.com/in/ndacayisaba/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<br /> 
+
 -->
