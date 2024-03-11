@@ -1,13 +1,9 @@
 ### Hello World 👋, I'm Libere Ndacayisaba
-***
-
+<hr>
 <a href="https://www.linkedin.com/in/ndacayisaba/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-
-<br />
-
-<hr> 
+<br /> 
 
 #### About Me 
 
@@ -16,7 +12,6 @@
 💬 I’m currently learning about venture and business strategy in biotechnology and biopharma </br>
 📫 Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) or visit my [personal site](https://liberendacayisaba.com/)
 
---- 
 #### Recent Experiences 💼
 
 - Senior Computational Biologist & Team Lead @ [Vitra Labs](https://vitra.bio/) - (Jul'23 - Present)
@@ -26,6 +21,8 @@
 
 ![Libere's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=libertatem&layout=compact&langs_count=8&hide_border=true)
 <br />
+
+<hr>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=libertatem.libertatem)
 
