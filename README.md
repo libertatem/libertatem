@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libertatem&layout=pie)](https://github.com/libertatem/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem)](https://git.io/streak-stats)
+
 #### Recent GitHub activity 👨‍💻
 
 <div align="left">
