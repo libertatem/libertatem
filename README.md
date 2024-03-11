@@ -4,6 +4,8 @@
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 
+<br />
+
 ### About Me 
 
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in ML + data science. </br>
