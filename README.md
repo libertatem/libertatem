@@ -7,6 +7,8 @@
 
 <br />
 
+<hr> 
+
 #### About Me 
 
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in ML + data science. </br>
