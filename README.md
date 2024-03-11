@@ -1,4 +1,4 @@
-## Hello World,👋 I'm [Libere Ndacayisaba!](https://www.linkedin.com/in/ndacayisaba/)  
+## Hello World 👋 
 
 ### About Me 🚀
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in ML + data science. </br>
@@ -8,8 +8,8 @@
 
 ### Recent Experiences 🙌
 - Senior Computational Biologist & Team Lead @ [Vitra Labs](https://vitra.bio/) - (Jul'23 - Present)
-- [Computational Biologist II & Team lead for Data Science and Modeling @ NextRNA Therapeutics](https://www.nextrnatx.com/) - (May '22 - June '23)
-- [PhD Graduate Research Assistant @ USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May'18 - May '22)
+- Computational Biologist II & Team lead for Data Science and Modeling @ [NextRNA Therapeutics](https://www.nextrnatx.com/) - (May '22 - June '23)
+- PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May'18 - May '22)
 
 ![Libere's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=libertatem&layout=compact&langs_count=8&hide_border=true)
 <br />
