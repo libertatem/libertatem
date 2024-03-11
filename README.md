@@ -1,4 +1,4 @@
-### Hello World 👋, I'm Libere Ndacayisaba
+### Hello World, I'm Libere Ndacayisaba
 
 <hr>
 
@@ -16,7 +16,8 @@
 - PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May'18 - May '22)
 - Computational Biology and Data Science Intern @ [Novartis](https://www.novartis.com/) - (June '15 - June '17)
 
-#### Recent GitHub activity 👷‍♂️
+#### Recent GitHub activity 👨‍💻
+
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=libertatem&theme=bear" width=750  alt="stats graph"/>
 </div>
