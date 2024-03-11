@@ -1,12 +1,18 @@
 ## Hello World 👋 
 
-### About Me 🚀
+<a href="https://www.linkedin.com/in/ndacayisaba/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+
+### About Me 
+
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in ML + data science. </br>
 🔭 I'm passionate about impactful frontier technologies that improve human health. </br>
 💬 I’m currently learning about venture and business strategy in biotechnology and biopharma </br>
 📫 Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) or visit my [personal site](https://liberendacayisaba.com/)
 
-### Recent Experiences 🙌
+### Recent Experiences 💼
+
 - Senior Computational Biologist & Team Lead @ [Vitra Labs](https://vitra.bio/) - (Jul'23 - Present)
 - Computational Biologist II & Team lead for Data Science and Modeling @ [NextRNA Therapeutics](https://www.nextrnatx.com/) - (May '22 - June '23)
 - PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May'18 - May '22)
