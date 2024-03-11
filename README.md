@@ -1,9 +1,9 @@
 ### Hello World 👋, I'm Libere Ndacayisaba
-<hr>
 <a href="https://www.linkedin.com/in/ndacayisaba/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <br /> 
+<hr>
 
 #### About Me 
 
