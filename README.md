@@ -14,6 +14,7 @@
 💬 I’m currently learning about venture and business strategy in biotechnology and biopharma </br>
 📫 Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) or visit my [personal site](https://liberendacayisaba.com/)
 
+--- 
 #### Recent Experiences 💼
 
 - Senior Computational Biologist & Team Lead @ [Vitra Labs](https://vitra.bio/) - (Jul'23 - Present)
