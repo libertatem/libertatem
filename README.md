@@ -1,6 +1,5 @@
 ## Hello World, I'm Libere Ndacayisaba
 
-<hr>
 
 ### About me 
 
