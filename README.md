@@ -16,10 +16,10 @@
 - PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May'18 - May '22)
 - Computational Biology and Data Science Intern @ [Novartis](https://www.novartis.com/) - (June '15 - June '17)
 
-#### Recent GitHub activity 👨‍💻
+#### Recent GitHub activity (public) 👨‍💻
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem&theme=travelers-theme&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=libertatem&theme=bear" width=750  alt="stats graph"/>
 </div>
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 #### Top Languagues 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libertatem&layout=pie)](https://github.com/libertatem/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/ndacayisaba/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
