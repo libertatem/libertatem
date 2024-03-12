@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 
 #### Top Languagues 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libertatem&layout=pie)](https://github.com/libertatem/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=libertatem)](https://git.io/streak-stats)
-
 <a href="https://www.linkedin.com/in/ndacayisaba/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
