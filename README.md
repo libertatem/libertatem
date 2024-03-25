@@ -5,7 +5,8 @@
 
 👨‍💻 I’m a Computational Biologist with a PhD in Medical Biophysics and experience in machine learning and data science. </br>
 🔭 I'm passionate about impactful frontier technologies that improve human health. </br>
-📫 See more on [personal site](https://liberendacayisaba.com/) and connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) 
+🌱 My philosophy on work and professional life: if at first you don't succeed, that's one data point. </br>
+📫 How to reach me: on [personal site](https://liberendacayisaba.com/) and connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) 
 
 ### Recent experiences 💼
 
