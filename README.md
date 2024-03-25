@@ -3,7 +3,7 @@
 
 ### About me 
 
-👨‍💻 I’m a Computational Biologist, classically trained in hematology oncolgy, with experience in machine learning, data science & analytics, and bioinformatics. </br>
+👨‍💻 I’m a Computational Biologist, trained in hematology oncolgy, with experience in machine learning, data science & analytics, and bioinformatics. </br>
 🔭 I'm passionate about impactful frontier technologies that improve human health. </br>
 🌱 My philosophy on work and professional life: if at first you don't succeed, that's one data point. </br>
 📫 How to reach me: connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) and learn more on my [personal site](https://liberendacayisaba.com/)
