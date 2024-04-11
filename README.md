@@ -15,7 +15,7 @@
 - PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May 2018 - May 2022)
 - Computational Biology and Data Science Intern @ [Novartis](https://www.novartis.com/) - (June 2015 - June 2017)
 
-### GitHub activity (public) 👨‍💻
+### GitHub activity 👨‍💻
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=libertatem&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
