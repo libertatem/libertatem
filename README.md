@@ -2,11 +2,10 @@
 
 
 ### About me 
-
-👨‍💻 I’m a professional data scientist with significant experience in machine learning, computional biology, and bioinformatics </br>
-🔭 Classically trained in biophysics and oncology, I'm passionate about impactful frontier technologies that improve human health </br> 
-🌱 Philosophy: `If at first you don't succeed, that's one data point!` </br>
-📫 Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) and learn more on my [personal site](https://liberendacayisaba.com/)
+ 
+- Classically trained in biophysics and oncology, I'm a generalist experienced in computional biology, machine learning, data science, and bioinformatics </br>
+- I'm passionate about applying frontier technologies to build innovative tools and solutions that improve human health </br> 
+- Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) and learn more on my [personal site](https://liberendacayisaba.com/)
 
 ### Recent affiliations 💼
 
