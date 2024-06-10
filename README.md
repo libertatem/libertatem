@@ -9,10 +9,10 @@
 
 ### Recent affiliations 💼
 
-- Senior Computational Biologist & Team Lead @ [Vitra Labs](https://vitra.bio/) - (July 2023 - March 2024)
-- Computational Biologist II & Team lead for Data Science and Modeling @ [NextRNA Therapeutics](https://www.nextrnatx.com/) - (May 2022 - June 2023)
-- PhD Graduate Research Assistant @ [USC Michelson CSI-Cancer](https://kuhn.usc.edu/) - (May 2018 - May 2022)
-- Computational Biology and Data Science Intern @ [Novartis](https://www.novartis.com/) - (Summer 2015, January 2015 - June 2017)
+- Senior Computational Biologist & Team Lead @ Vitra Labs - (July 2023 - March 2024)
+- Computational Biologist II & Team lead for Data Science and Modeling @ NextRNA Therapeutics - (May 2022 - June 2023)
+- PhD Graduate Research Assistant @ USC Michelson Convergent Science Intitute in Cancer - (May 2018 - May 2022)
+- Computational Biology and Data Science Intern @ Novartis - (Summer 2015, January 2015 - June 2017)
 
 ### GitHub activity 👨‍💻
 
