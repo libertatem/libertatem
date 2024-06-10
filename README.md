@@ -3,7 +3,7 @@
 
 ### About me 
  
-- Classically trained in biophysics and oncology, I'm a generalist experienced in machine learning, data science, and computional biology. </br>
+- I'm a generalist experienced in machine learning, data science, and computional biology, with classical training in biophysics and oncology. </br>
 - I'm passionate about applying frontier technologies to build innovative tools and solutions that improve human health. </br> 
 - Connect on [linkedin](https://www.linkedin.com/in/ndacayisaba/) and learn more on my [personal site](https://liberendacayisaba.com/)
 
